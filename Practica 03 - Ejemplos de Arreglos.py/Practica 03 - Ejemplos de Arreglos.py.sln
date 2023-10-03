@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practica 03 - Ejemplos de Arreglos.py", "Practica 03 - Ejemplos de Arreglos.py.pyproj", "{F32BAE89-2522-4E33-A07E-E298FF6D1784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F32BAE89-2522-4E33-A07E-E298FF6D1784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32BAE89-2522-4E33-A07E-E298FF6D1784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAF1DAC8-19D9-4C05-B8AA-E03C8F725E22}
+	EndGlobalSection
+EndGlobal
