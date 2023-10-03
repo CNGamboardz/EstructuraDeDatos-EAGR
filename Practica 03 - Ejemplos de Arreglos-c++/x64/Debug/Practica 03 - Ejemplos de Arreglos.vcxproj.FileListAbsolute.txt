@@ -1,0 +1,2 @@
+C:\Users\erick\Desktop\Practica 03 - Ejemplos de Arreglos\x64\Debug\Practica 03 - Ejemplos de Arreglos.exe
+C:\Users\erick\Desktop\Practica 03 - Ejemplos de Arreglos-c++\x64\Debug\Practica 03 - Ejemplos de Arreglos.exe
