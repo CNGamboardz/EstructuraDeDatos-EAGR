@@ -1,3 +1,6 @@
+//Erick Gamboa
+//Practica 09 - Lista Enlazada ( C++)
+
 #include <iostream>
 using namespace std;
 struct Nodo
