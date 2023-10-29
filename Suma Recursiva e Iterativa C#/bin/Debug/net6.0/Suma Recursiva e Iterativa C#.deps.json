@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Suma Recursiva e Iterativa C#/1.0.0": {
+        "runtime": {
+          "Suma Recursiva e Iterativa C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Suma Recursiva e Iterativa C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

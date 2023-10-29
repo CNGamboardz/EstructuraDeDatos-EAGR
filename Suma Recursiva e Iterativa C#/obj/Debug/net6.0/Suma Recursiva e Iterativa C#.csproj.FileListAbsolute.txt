@@ -1,0 +1,14 @@
+C:\Users\erick\Desktop\Suma Recursiva e Iterativa C#\bin\Debug\net6.0\Suma Recursiva e Iterativa C#.exe
+C:\Users\erick\Desktop\Suma Recursiva e Iterativa C#\bin\Debug\net6.0\Suma Recursiva e Iterativa C#.deps.json
+C:\Users\erick\Desktop\Suma Recursiva e Iterativa C#\bin\Debug\net6.0\Suma Recursiva e Iterativa C#.runtimeconfig.json
+C:\Users\erick\Desktop\Suma Recursiva e Iterativa C#\bin\Debug\net6.0\Suma Recursiva e Iterativa C#.dll
+C:\Users\erick\Desktop\Suma Recursiva e Iterativa C#\bin\Debug\net6.0\Suma Recursiva e Iterativa C#.pdb
+C:\Users\erick\Desktop\Suma Recursiva e Iterativa C#\obj\Debug\net6.0\Suma Recursiva e Iterativa C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\Suma Recursiva e Iterativa C#\obj\Debug\net6.0\Suma Recursiva e Iterativa C#.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\Suma Recursiva e Iterativa C#\obj\Debug\net6.0\Suma Recursiva e Iterativa C#.AssemblyInfo.cs
+C:\Users\erick\Desktop\Suma Recursiva e Iterativa C#\obj\Debug\net6.0\Suma Recursiva e Iterativa C#.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Suma Recursiva e Iterativa C#\obj\Debug\net6.0\Suma Recursiva e Iterativa C#.dll
+C:\Users\erick\Desktop\Suma Recursiva e Iterativa C#\obj\Debug\net6.0\refint\Suma Recursiva e Iterativa C#.dll
+C:\Users\erick\Desktop\Suma Recursiva e Iterativa C#\obj\Debug\net6.0\Suma Recursiva e Iterativa C#.pdb
+C:\Users\erick\Desktop\Suma Recursiva e Iterativa C#\obj\Debug\net6.0\Suma Recursiva e Iterativa C#.genruntimeconfig.cache
+C:\Users\erick\Desktop\Suma Recursiva e Iterativa C#\obj\Debug\net6.0\ref\Suma Recursiva e Iterativa C#.dll
