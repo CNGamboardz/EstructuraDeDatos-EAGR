@@ -1,0 +1,14 @@
+C:\Users\erick\Desktop\Ejercicios de Recursividad e Iteración C#\bin\Debug\net6.0\Ejercicios de Recursividad e Iteración C#.exe
+C:\Users\erick\Desktop\Ejercicios de Recursividad e Iteración C#\bin\Debug\net6.0\Ejercicios de Recursividad e Iteración C#.deps.json
+C:\Users\erick\Desktop\Ejercicios de Recursividad e Iteración C#\bin\Debug\net6.0\Ejercicios de Recursividad e Iteración C#.runtimeconfig.json
+C:\Users\erick\Desktop\Ejercicios de Recursividad e Iteración C#\bin\Debug\net6.0\Ejercicios de Recursividad e Iteración C#.dll
+C:\Users\erick\Desktop\Ejercicios de Recursividad e Iteración C#\bin\Debug\net6.0\Ejercicios de Recursividad e Iteración C#.pdb
+C:\Users\erick\Desktop\Ejercicios de Recursividad e Iteración C#\obj\Debug\net6.0\Ejercicios de Recursividad e Iteración C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\Ejercicios de Recursividad e Iteración C#\obj\Debug\net6.0\Ejercicios de Recursividad e Iteración C#.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\Ejercicios de Recursividad e Iteración C#\obj\Debug\net6.0\Ejercicios de Recursividad e Iteración C#.AssemblyInfo.cs
+C:\Users\erick\Desktop\Ejercicios de Recursividad e Iteración C#\obj\Debug\net6.0\Ejercicios de Recursividad e Iteración C#.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Ejercicios de Recursividad e Iteración C#\obj\Debug\net6.0\Ejercicios de Recursividad e Iteración C#.dll
+C:\Users\erick\Desktop\Ejercicios de Recursividad e Iteración C#\obj\Debug\net6.0\refint\Ejercicios de Recursividad e Iteración C#.dll
+C:\Users\erick\Desktop\Ejercicios de Recursividad e Iteración C#\obj\Debug\net6.0\Ejercicios de Recursividad e Iteración C#.pdb
+C:\Users\erick\Desktop\Ejercicios de Recursividad e Iteración C#\obj\Debug\net6.0\Ejercicios de Recursividad e Iteración C#.genruntimeconfig.cache
+C:\Users\erick\Desktop\Ejercicios de Recursividad e Iteración C#\obj\Debug\net6.0\ref\Ejercicios de Recursividad e Iteración C#.dll
